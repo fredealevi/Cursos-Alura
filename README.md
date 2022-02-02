@@ -1,2 +1,2 @@
 # Cursos-Alura
-Backup dos projetos desenvolvidos nos cursos da Alura.
+Primeiro Site feito utilizando HTML e CSS.
